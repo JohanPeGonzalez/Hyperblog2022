@@ -1,0 +1,2 @@
+Esto es un texto creado en la terminar como prueba del curso de GIT and
+GitHub
